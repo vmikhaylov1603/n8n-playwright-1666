@@ -1,19 +1,19 @@
 {
-  "name": "n8n-nodes-playwright",
+  "name": "n8n-nodes-playwright-1666",
   "version": "0.2.21",
   "description": "n8n-community-node-package for browser automation using Playwright",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-nodes-playwright-1666"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "Mohamed Toema",
-    "email": "m.toema20@gmail.com"
+    "name": "ii",
+    "email": "11@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/toema/n8n-playwright"
+    "url": "https://github.com/vmikhaylov1603/n8n-nodes-playwright-1666"
   },
   "engines": {
     "node": ">=18.10",
